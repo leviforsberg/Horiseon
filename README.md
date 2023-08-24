@@ -10,7 +10,7 @@ This project does not require installation.
 
 ## Usage
 
-    ![webpage screenshot](assets/images/screenshot-2023-08-23.png)
+![webpage screenshot](./assets/images/screenshot-2023-08-23.png)
 
 
 ## License
